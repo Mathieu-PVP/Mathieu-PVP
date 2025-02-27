@@ -3,7 +3,7 @@
 
 
 ## A propos de moi
-- 👔 Etudiant à Openclassrooms en alternance chez [Alibee by PVP](https://alibee.fr)
+- 👔 Etudiant à Openclassrooms en alternance chez [PVP](https://pvp.fr)
 - 👨‍🎓 Apprenti Intégrateur Web
 - 💻 HTML / CSS / Javascript / PHP / Nodejs / SQL
 
