@@ -1,5 +1,6 @@
 
-![Bannière GitHub](https://github.com/Mathieu-PVP/Mathieu-PVP/assets/148555771/e740342d-80d6-4803-aa1b-ff82d6109298)
+![Bannière - PVP](https://github.com/user-attachments/assets/2f5ea278-667c-4c89-b2fb-41035e258073)
+
 
 ## A propos de moi
 - 👔 Etudiant à Openclassrooms en alternance chez [Alibee by PVP](https://alibee.fr)
