@@ -4,7 +4,6 @@
 
 ## A propos de moi
 - 👔 Développeur / Intégrateur informatique chez [PVP](https://pvp.fr)
-- 👨‍🎓 Apprenti Intégrateur Web
 - 💻 HTML / CSS / Javascript / PHP / Nodejs / SQL
 
 Je développe des sites internet ainsi que des plugins pour CMS. 😉
